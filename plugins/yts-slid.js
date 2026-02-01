@@ -36,7 +36,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
                 text: `🎬 *Title:* ${video.title}\n⌛ *Duration:* ${video.timestamp}\n👀 *Views:* ${video.views}\n🔗 *Link:* ${video.url} \n ig : instagram.com/noureddine_ouafy`
             }),
             footer: proto.Message.InteractiveMessage.Footer.fromObject({
-                text: '乂 SILANA AI 🧠' // Customize your watermark
+                text: '乂 FULANO 🧠' // Customize your watermark
             }),
             header: proto.Message.InteractiveMessage.Header.fromObject({
                 title: `Video ke - ${i++}`,
