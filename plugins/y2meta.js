@@ -1,4 +1,4 @@
-//plugin by noureddine Ouafy 
+//plugin by zaka ziko
 // scrape by wolfyflutter
 import fetch from 'node-fetch';
 
