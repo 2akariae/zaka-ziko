@@ -1,4 +1,4 @@
-// instagram.com/noureddine_ouafy
+// instagram.com/212.mks
 // scarape by Cifumo
 import axios from 'axios'
 import FormData from 'form-data'
