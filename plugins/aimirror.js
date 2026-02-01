@@ -115,7 +115,7 @@ let handler = async (m, { conn }) => {
       return m.reply("📸 أرسل صورة مع الأمر:\n.aimirror");
     }
 
-    m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع\ninstagram.com/noureddine_ouafy");
+    m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع\ninstagram.com/212.mks");
 
     const imgBuffer = await q.download();
     const imageBase64 = `data:${mime};base64,${imgBuffer.toString("base64")}`;
