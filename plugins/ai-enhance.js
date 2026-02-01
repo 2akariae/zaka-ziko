@@ -1,4 +1,4 @@
-// plugin by instagram.com/noureddine_ouafy
+// plugin by instagram.com/212.mks
 // scrape by malik ❤️
 
 import axios from "axios";
