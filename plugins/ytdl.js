@@ -1,5 +1,5 @@
-// scrape by hannuniverse
-// plugin by noureddine ouafy
+// scrape by flan
+// plugin by fulano
 
 import axios from 'axios'
 
