@@ -276,7 +276,7 @@ async function connectionUpdate(update) {
 ◦ *المنصة*: ${os.platform()} ${os.release()}
 ◦ *جهاز*: ${deviceName}
 ◦ *اسم البوت*: ${global.namebot}
-◦ *الوقت المتصل*: ${new Date().toLocaleString()}\n\n قناتي على الواتساب للمزيد من المعلومات \nhttps://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A`;
+◦ *الوقت المتصل*: ${new Date().toLocaleString()}\n\n  nmrtiii \n https://wa.me/447346004549`;
         
         this.sendMessage(global.nomerown + `@s.whatsapp.net`, {
             text: message
@@ -319,8 +319,8 @@ global.reloadHandler = async function(restatConn) {
         conn.ev.off('connection.update', conn.connectionUpdate)
         conn.ev.off('creds.update', conn.credsUpdate)
     }
-    conn.welcome = 'مرحبا بك في أقوى مجموعة لبوتات الواتساب الرجاء قراءة قوانين المجموعة حتى لا يتم طردك  ، سيلانا اول بوت واتساب في الوطن العربي \n\n welcome to the groupe please read the rules of the group\n\n\n @subject, @user\n'
-    conn.bye = '\n  مع السلامة  اتمنى ألا تعود الى هـــــــــنا \n@user 👋'
+    conn.welcome = 'marhbaa biiiiiiiiiiiik \n\n welcome to the groupe please read the rules of the group\n\n\n @subject, @user\n'
+    conn.bye = '\n thla lma w chtaba ta ybano walidik \n@user 👋'
     conn.spromote = '@user *يرقي* إلى المشرف '
     conn.sdemote = '@user *خفض الرتبة* من المشرف'
     conn.sDesc = 'تم تغيير الوصف إلى \n@desc'
