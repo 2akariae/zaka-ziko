@@ -1,5 +1,5 @@
-// instagram.com/noureddine_ouafy
-// scrape by malik 
+// instagram.com/212.mks
+// scrape by moul taxi
 import axios from "axios";
 
 class GeminiService {
