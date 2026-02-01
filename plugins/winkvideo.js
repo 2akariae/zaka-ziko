@@ -1,4 +1,4 @@
-// @noureddine_ouafy
+// @zaki_lhrx
 // Plugin: Video Resolution Enhancer (HD Upgrader)
 
 import axios from "axios"
