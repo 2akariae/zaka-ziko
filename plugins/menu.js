@@ -46,53 +46,53 @@ let handler = async (m, { conn, usedPrefix, command, args }) => {
           let objekk = Object.keys(tagCount)
           Object.entries(tagCount).map(([key, value]) => isiMenu.push({
           header: ` list cmd ${key}  `,
-                    title: `📌 إظهار قائمة أوامر [ ${key} ]`,
+                    title: `📌 orders [ ${key} ]`,
                     description: `عدد ${value} الميزات`,
                     id: ".menu " + key,
                     })
           ).join();
           const datas = {
-    title: "أنقر هنا !",
+    title: "brk hna !",
     sections: [{
-            title: "جميع الأوامر الخاصة بالبوت",
-            highlight_label: "إظهار كافة الميزات",
+            title: "ga3 l 2awamir",
+            highlight_label: "ga3 lfeatures",
             rows: [{
                     header: " All Menu",
-                    title: "جميع الأوامر الخاصة بالبوت",
+                    title: "ga3 l orders li kaynin",
                     description: "",
                     id: ".menu all",
                 }],
         },
         {
-            title: 'لائحة الأوامر ',
-            highlight_label: "الائحة",
+            title: 'liste orders ',
+            highlight_label: "lista",
             rows: [...isiMenu]
         },
         {
-            title: 'معلومات عن البوت',
-            highlight_label: "معلومة",
+            title: 'm3lomat 3la lbot',
+            highlight_label: "m3loma",
             rows: [
             {
-                    header: "سكريبت البوت",
-                    title: "معلومات حول سكريبت البوت",
+                    header: "script",
+                    title: " info 3la script",
                     description: "",
                     id: ".sc",
                 },
             {
                     header: "Info Owner",
-                    title: "معلومات عن صاحب البوت",
+                    title: "m3lomat 3lya ana",
                     description: "",
                     id: ".owner",
                 },
             {
-                    header: "معلومات الميزة الإجمالية",
-                    title: "المعلومات المتعلقة بالميزات الإجمالية للبوت",
+                    header: "m3lomat akhrin",
+                    title: "m3lomat akhrin dyal lboot",
                     description: "",
                     id: ".totalfitur",
                 },
             {
-                    header: "معلومات سرعة الاستجابة",
-                    title: "معلومات بخصوص سرعة استجابة الروبوت",
+                    header: "m3lomat 3la speed",
+                    title: "speeed",
                     description: "",
                     id: ".os",
                 }
@@ -123,7 +123,7 @@ let handler = async (m, { conn, usedPrefix, command, args }) => {
    let tUser = Object.keys(db.data.users).length;
    let userReg = Object.values(global.db.data.users).filter(user => user.registered == true).length
    
-let headers = `إعتبرني : رفيقتك ، أستاذتك ،عزيزتك ،التي ستجدها قربك في كل يوم لأجعل لك من نجمة ستة و من استخدام تطبيق الواتساب طعما آخر 🙂‍↕️🧠🗣️\n\n`
+let headers = `nshel 3lik kolchi kon gha rajel\n\n`
 
   if (cmd === 'list') {
     const daftarTag = Object.keys(tagCount)
@@ -203,7 +203,7 @@ conn.sendMessage(m.chat, {
           }, {quoted: m});
           } else if (_menu.button) {
           
- conn.sendListImageButton(m.chat, `${headers}`, datas, 'عَنْ أَبِي هُرَيْرَةَ رضي الله تعالى عنه: أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: إِذَا مَاتَ ابنُ آدم انْقَطَعَ عَنْهُ عَمَلُهُ إِلَّا مِنْ ثَلَاثٍ: صَدَقَةٍ جَارِيَةٍ، أو عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ', thumbnail)
+ conn.sendListImageButton(m.chat, `${headers}`, datas, 'gol 3acha ziko', thumbnail)
           }
   } else if (tagCount[cmd]) {
     const daftarHelp = tagHelpMapping[cmd].map((helpItem, index) => {
@@ -276,7 +276,7 @@ conn.sendMessage(m.chat, {
             },
           }, {quoted: m});
           } else if (_menu.button) {
-          conn.sendListImageButton(m.chat, `IM SILANA LITE AI\n\n${list2}`, datas, wm, thumbnail)
+          conn.sendListImageButton(m.chat, `IM FULANOOOO \n\n${list2}`, datas, wm, thumbnail)
           }
           } else if (cmd === 'all') {
     let name = m.pushName || conn.getName(m.sender)
@@ -291,7 +291,7 @@ conn.sendMessage(m.chat, {
       return`╭──「 MENU ${tag.toUpperCase()} 」\n├──────────────\n│※ ${daftarHelp}\n╰──────────•`;
     }).join('\n');
     let all =  `${headers}${readMore}\n${allTagsAndHelp}\n${wm}`
-    const pp = await conn.profilePictureUrl(m.sender, 'image').catch((_) => "https://telegra.ph/file/1ecdb5a0aee62ef17d7fc.jpg");
+    const pp = await conn.profilePictureUrl(m.sender, 'image').catch((_) => "https://graph.org/file/712b478a279eeb031ebbe-36e2c4c0fb35d0cc1d.jpg");
     if (_menu.image) {
 
 conn.sendMessage(m.chat, {
