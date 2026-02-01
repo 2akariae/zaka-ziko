@@ -74,7 +74,7 @@ class UnblurAI {
 let handler = async (m, { conn, args }) => {
   if (!args[0]?.startsWith('http')) throw 'يرجى إرسال رابط صورة صالح.'
 
-  await m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع \ninstagram.com/noureddine_ouafy")
+  await m.reply(" dir follow binma salit\ninstagram.com/212.mks")
 
   const unblurAI = new UnblurAI()
   try {
