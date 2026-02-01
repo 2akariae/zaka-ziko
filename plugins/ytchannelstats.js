@@ -5,7 +5,7 @@
 import axios from 'axios';
 
 let handler = async (m, { conn, text }) => {
-    if (!text) return conn.reply(m.chat, "Send me a YouTube channel URL. Example:\nhttps://youtube.com/@noureddineouafy2", m);
+    if (!text) return conn.reply(m.chat, "Send me a YouTube channel URL. Example:\nhttps://youtube.com/@0lhrch", m);
 
     try {
         // Fetch channel ID from URL
