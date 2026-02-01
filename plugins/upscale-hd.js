@@ -1,7 +1,7 @@
 /* 
 • Upscale Plugin (HD Photo)
-• Source: https://whatsapp.com/channel/0029VakezCJDp2Q68C61RH2C
-• Source Scrape: https://whatsapp.com/channel/0029Vb5blhMEawdx2QFALZ1D
+• Source: moul taxi
+• Source Scrape: ara dik lyed
 */
 
 import fetch from 'node-fetch'
