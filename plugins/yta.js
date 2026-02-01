@@ -2,7 +2,7 @@
 
 Feature : ytmp3
 Type : Plugins ESM
-Created by : https://whatsapp.com/channel/0029VbBbGUiFcow4neaist0T
+Created by : flan lfLANI
 Api : sankavollerei.com
 
 ⚠️ Note ⚠️ jangan hapus wm ini banggg
