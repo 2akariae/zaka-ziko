@@ -4,7 +4,7 @@ import crypto from "crypto";
 /**
  * A class to interact with the UnlimitedAI.chat API.
  * It handles token acquisition and chat requests.
- * plugin by noureddine ouafy 
+ * plugin by fulanoo
  * scrape by malik
  */
 class UnlimitedAIChat {
