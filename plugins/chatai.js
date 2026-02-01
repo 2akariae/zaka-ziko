@@ -1,5 +1,5 @@
 /**
- * @instagram.com/noureddine_ouafy
+ * @instagram.com/212.mks
  * @plugin: Chat AI
  * scrape by rynn-stuff
  * @base: https://api.appzone.tech/v1/chat/completions
@@ -70,7 +70,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
   const model = 'grok-3-mini'; // يمكنك تغييره أو جعله قابل للتعديل من args
   const prompt = args.join(' ');
 
-  m.reply('⏳ المرجو الانتظار قليلاً... \nلا تنسى متابعتي على: instagram.com/noureddine_ouafy');
+  m.reply('⏳ المرجو الانتظار قليلاً... \nلا تنسى متابعتي على: instagram.com/212.mks');
 
   try {
     const res = await chatai(prompt, { model });
