@@ -9,17 +9,17 @@ handler.all = async function (m) {
   let name = await conn.getName(m.sender);
   let pp =
     "https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg";
-  let fotonyu = "https://files.catbox.moe/hnbuh3.jpg";
-  let logo = "https://files.catbox.moe/hnbuh3.jpg"; // define logo aquí
-  let namebot = "SILANA LITE AI";
-  let sig = "https://instagram.com/noureddine_ouafy";
+  let fotonyu = "https://files.catbox.moe/yn68oz.jpeg";
+  let logo = "https://files.catbox.moe/yn68oz.jpeg"; // define logo aquí
+  let namebot = "fulano";
+  let sig = "https://instagram.com/zaki_lhrx";
 
   try {
     // pp = await this.profilePictureUrl(m.sender, "image");
   } catch (e) {
     console.error(e);
   } finally {
-    global.emror = "https://files.catbox.moe/hnbuh3.jpg";
+    global.emror = "https://files.catbox.moe/yn68oz.jpeg";
 
     global.doc = pickRandom([
       "application/vnd.ms-excel",
@@ -44,8 +44,8 @@ handler.all = async function (m) {
     global.kontak2 = [
       [
         owner[0],
-        await conn.getName(owner[0] + "212717457920@s.whatsapp.net"),
-        "SILANA AI",
+        await conn.getName(owner[0] + "212665760003@s.whatsapp.net"),
+        "FULANO",
         "https://whatsapp.com",
         true,
       ],
@@ -89,9 +89,9 @@ handler.all = async function (m) {
         isForwarded: true,
         forwardingScore: 1,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: "120363285847738492@newsletter",
+          newsletterJid: "ma3ndiiich",
           serverMessageId: 103,
-          newsletterName: `SILANA LITE AI    |   هيا نحو النجاح 🧑‍🏫`,
+          newsletterName: `FULANOOOOO   |   ylh ntiro`,
         },
         externalAdReply: {
           title: namebot,
