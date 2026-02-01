@@ -48,7 +48,7 @@ export async function before(m, { isAdmin, isOwner, isBotAdmin }) {
           .replace("audio", m.msg.ptt ? "PTT" : "audio")
           .replace(/^./, (v) => v.toUpperCase()) || "Unknown";
       return m.reply(
-        "⚠️ لقد تم منعك من استخدام البوت المرجو الانتظار بعد 10 ثواني..",
+        "⚠️ tbaniti rta7 wah 10 sec..",
       );
     }
   } else {
