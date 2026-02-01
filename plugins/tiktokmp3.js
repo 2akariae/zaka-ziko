@@ -1,4 +1,4 @@
-// plugin by Noureddine_ouafy
+// plugin by zaka ziko
 // scrape by GilangSan
 import axios from 'axios'
 import cheerio from 'cheerio'
