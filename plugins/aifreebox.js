@@ -1,7 +1,7 @@
 /**
- * @instagram.com/noureddine_ouafy
+ * @instagram.com/212.mks
  * @description: Generate images using AIFreeBox
- * @author: SaaOfc's (Modified by Noureddine)
+ * @author: SaaOfc's (Modified by ZAKA ZIKO)
  */
 
 import axios from 'axios'
