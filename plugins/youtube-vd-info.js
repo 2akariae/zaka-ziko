@@ -26,7 +26,7 @@ async function imageYoutube(url) {
   let token = await getToken()
   let form = {
     v: url,
-    usertimezone: "Africa/Casablanca", // Changed to Morocco timezone
+    usertimezone: "Africa/Meknes", // Changed to Morocco timezone
     csrf_token: token.csrf_token,
     device: "mobile",
     mcountry: token.mcountry
