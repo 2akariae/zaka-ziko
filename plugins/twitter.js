@@ -1,4 +1,4 @@
-//plugin by @noureddine_ouafy 
+//plugin by @212.mks
 //scrape by JazxCode
 
 import axios from 'axios';
