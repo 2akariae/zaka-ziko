@@ -1,4 +1,4 @@
-// instagram.com/noureddine_ouafy
+// instagram.com/212.mks
 import { areJidsSameUser } from '@adiwajshing/baileys'
 
 function resolveJid(input, participants = []) {
