@@ -1,4 +1,4 @@
-// plugin by noureddine ouafy 
+// plugin by FULANO
 // scrape by ZenzzXD
 
 
