@@ -1,4 +1,4 @@
-// Instagram: noureddine_ouafy
+// Instagram: 212.mks
 // scrape by malik
 import axios from "axios"
 import FormData from "form-data"
