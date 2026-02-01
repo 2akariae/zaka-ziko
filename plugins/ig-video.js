@@ -1,4 +1,4 @@
-// instagram.com/noureddine_ouafy
+// instagram.com/212.mks
 // scrape by @zaenal-iyyl
 import axios from "axios";
 import cheerio from "cheerio";
