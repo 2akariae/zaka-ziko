@@ -3,7 +3,7 @@
  * Telegram Channel Search Plugin
  * Author: gienetic
  * Base: https://tgramsearch.com/
- * Plugin Conversion: By noureddine ouafy using Gemini 
+ * Plugin Conversion: By zakriae using Gemini hhhhhhh
  */
 
 
