@@ -1,4 +1,4 @@
-// @noureddine_ouafy
+// @212.mks
 // APK Downloader Plugin using NexOracle API
 
 import axios from 'axios';
@@ -10,7 +10,7 @@ let handler = async (m, { conn, args }) => {
   }
 
   // رسالة انتظار
-  await m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع \ninstagram.com/noureddine_ouafy");
+  await m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع \ninstagram.com/212.mks");
 
   try {
     const apiUrl = `https://api.nexoracle.com/downloader/apk`;
