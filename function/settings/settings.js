@@ -14,47 +14,47 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
- figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
+ nomerbot : '212665760003',
+ pairingNumber : '212777466518',
+ figlet: 'FULANO', // create a start console display
+ nomorwa : '212665760003',
  nameown : 'NOUREDDINE',
- nomerown : '212717457920',
- packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
- stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ nomerown : '212665760003',
+ packname : 'FULANO  ',
+ author : 'zaka-ziko',
+ namebot : '乂 FULANO',
+ wm : 'FULANO.',
+ stickpack : 'fulano',
+ stickauth : 'zaka-ziko',
  jid: '@s.whatsapp.net'
 }
 
 // Thumbnail 
 global.media = {
  ppKosong : 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
- didyou : 'https://telegra.ph/file/e40219cc8d472025f18b6.jpg',
- rulesBot : 'https://telegra.ph/file/7cd8985216ffd3c376238.jpg',
- thumbnail : 'https://files.catbox.moe/hnbuh3.jpg',
- thumb : 'https://files.catbox.moe/hnbuh3.jpg',
- logo : 'https://files.catbox.moe/hnbuh3.jpg',
- unReg : 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
- registrasi : 'https://files.catbox.moe/hnbuh3.jpg',
- confess : 'https://telegra.ph/file/bfef7e33bc60dd2608ac6.jpg',
- access : 'https://telegra.ph/file/5c35d4a180b9074a9f11b.jpg',
- tqto : 'https://telegra.ph/file/221aba241e6ededad0fd5.jpg',
+ didyou : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ rulesBot : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ thumbnail : 'https://files.catbox.moe/yn68oz.jpeg',
+ thumb : 'https://files.catbox.moe/yn68oz.jpeg',
+ logo : 'https://files.catbox.moe/yn68oz.jpeg',
+ unReg : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ registrasi : 'https://files.catbox.moe/yn68oz.jpeg',
+ confess : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ access : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ tqto : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
  spotify : 'https://telegra.ph/file/d888041549c7444f1212b.jpg',
- weather : 'https://telegra.ph/file/5b35ba4babe5e31595516.jpg',
- gempaUrl : 'https://telegra.ph/file/03e70dd45a9dc628d84c9.jpg',
- akses : 'https://telegra.ph/file/6c7b9ffbdfb0096e1db3e.jpg',
- wel : 'https://telegra.ph/file/9dbc9c39084df8691ebdd.mp4',
- good : 'https://telegra.ph/file/1c05b8c019fa525567d01.mp4',
+ weather : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ gempaUrl : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ akses : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ wel : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
+ good : 'https://graph.org/file/6627d3691b3f3b96023e6-990baf2cb34df13020.jpg',
  sound: 'https://pomf2.lain.la/f/ymca9u8.opus'
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://instagram.com/zaki_lhrx',
+ sgh:  'https://snapchat.com/t/TEhPW0hu',
+ sgc: 'https://wa.me/447346004549'
 }
 // Donasi
 global.payment = {
@@ -64,8 +64,8 @@ global.payment = {
 }
 // Info Wait
 global.msg = {
- wait: '⏱️ *يرجى التحلي بالصبر*\n\> نحاول تلبية طلبكم ...',
- eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *Silana Ai*. There was an error in the system while executing the command.'
+ wait: '⏱️ *  waiiit asahbi*\n\> sber chwyaa 3afak...',
+ eror: '🤖 *Information Bot*\n\> Sorry for the inconvenience in using *fulano*. There was an error in the system while executing the command.'
 }
  
 // api_id web suntik
