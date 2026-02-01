@@ -1,7 +1,7 @@
 /**
- * @instagram.com/noureddine_ouafy
+ * @instagram.com/212.mks
  * Scrape Instagram Stalk Info
- * Author: SaaOfc's | Modified by: @noureddine_ouafy
+ * Author: SaaOfc's | Modified by: @FULANO
  */
 
 import axios from 'axios';
