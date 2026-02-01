@@ -1,6 +1,6 @@
 /*
   feature : Spotify Downloader (direct mp3)
-  plugin by  : noureddine
+  plugin by  : fulano
   scrape by  : malik
 */
 
