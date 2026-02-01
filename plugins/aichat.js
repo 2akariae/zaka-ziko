@@ -1,4 +1,4 @@
-// @noureddine_ouafy
+// @212.mks
 // Command: .aichat <message>
 // Scrapes unofficial AI model responses (FreeBotiAIChat base)
 
