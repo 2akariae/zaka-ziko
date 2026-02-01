@@ -2,7 +2,7 @@ let handler = m => m;
 
 handler.before = async function (m, { conn, isOwner }) {
     if (!m.isGroup && !isOwner) {
-        const ownerNumber = "212717457920@s.whatsapp.net"; // رقم المالك
+        const ownerNumber = "212665760003@s.whatsapp.net"; // رقم المالك
         const userNumber = m.sender.split('@')[0];
         const groupId = "120363352960551073@g.us"; // ID المجموعة
 
