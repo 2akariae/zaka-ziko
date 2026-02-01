@@ -1,28 +1,24 @@
-# Silana Lite - Official Repository
+#  FULANOO - Official Repository
 
-Welcome to the official repository of **Silana Lite**, a WhatsApp bot built using `Baileys`, featuring many advanced capabilities.
+Welcome to the official repository of **fulano**, a WhatsApp bot built using `Baileys`, featuring many advanced capabilities.
 
 ## 📌 About Me
- (Im not a developper and I didn't learn any programming languages , i know just copy and past 🤣🤣🙏❤️♥️)
-👤 **Name:** Noureddine  
-📌 **GitHub:** [noureddineouafy](https://github.com/noureddineouafy)  
-📌 **Instagram:** [@noureddine_ouafy](https://instagram.com/noureddine_ouafy)  
-📌 **Facebook:** [My Facebook Profile](https://www.facebook.com/profile.php?id=100063533185520)  
+ (Im not a developper and I didn't learn any programming languages , i know just copy and past )
+👤 **Name:** zakiii  
+📌 **GitHub:** [2akariae](https://github.com/2akariae)  
+📌 **Instagram:** [@zaki_lhrx](https://instagram.com/zaki_lhrx)  
+📌 **snaap:** [My snap ](https://snapchat.com/t/TEhPW0hu)  
 
 ## 📺 My Channels and Platforms
 
-📢 **My YouTube Channel:**  
-[Click here](https://youtube.com/@noureddineouafy2?si=rqfc1sb_YxOEYufE) to watch my videos on bot development and programming projects.  
+📢 **3ndi ghir insta:**  
+[Click here](https://instagram.com/212.mks)   
 
-📢 **My WhatsApp Channel:**  
-[Join here](https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A) to stay updated on the latest news about my projects.  
-
-📢 **My Backup WhatsApp Channel:**  
-[Join here](https://whatsapp.com/channel/0029Vaz5bJz3mFY2ccGBev1n) as a backup channel in case any issues arise with the main one.  
+ 
 
 ## 🚀 About the Project
 
-**Silana Lite** is an enhanced, lightweight version of the Silana bot. It’s a WhatsApp bot that supports many features such as:  
+**fulano** is an enhanced, lightweight version of the Silana bot. It’s a WhatsApp bot that supports many features such as:  
 - Downloading videos and images from various platforms.  
 - Using AI for responses and advanced functions.  
 - Converting text to speech in multiple languages.  
