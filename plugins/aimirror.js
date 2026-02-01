@@ -1,4 +1,4 @@
-// instagram.com/noureddine_ouafy
+// instagram.com/212.mks
 // scrape by Fahmi-XD
 import axios from "axios";
 import crypto from "crypto";
