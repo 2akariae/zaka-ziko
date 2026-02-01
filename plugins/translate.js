@@ -1,4 +1,4 @@
-// INSTAGRAM: instagram.com/noureddine_ouafy
+// INSTAGRAM: instagram.com/212.mks
 // TRANSLATE PLUGIN - DEFAULT TO ARABIC
 
 import fetch from 'node-fetch';
