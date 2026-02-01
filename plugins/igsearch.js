@@ -1,4 +1,4 @@
-// plugin by noureddine ouafy 
+// plugin by FULANO
 // scrape by andhikagg
 import axios from 'axios'
 
