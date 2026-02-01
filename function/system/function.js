@@ -34,7 +34,7 @@ export async function closegc() {
 
                 await conn.delay(1000);
 
-                await conn.reply(schedule, '*[إشعار النظام]*\n\n```مرحبًا بالجميع، آسف لإزعاجك. سيتم إغلاق نظام مجموعة الواتس اب مؤقتا بسبب وقت متأخر من الليل. نأسف للإزعاج. من فضلك خذ قسطًا من الراحة وسنواصل المحادثة صباح الغد. نشكركم على تفهمكم وتعاونكم. طاب مساؤك!```', null);
+                await conn.reply(schedule, '*[moul chi gallkom]*\n\n```wa khona 3ya chwya ta lsba7 wrje3!```', null);
 
             } else if (time === '05:30' && anon === true) {
 
@@ -42,7 +42,7 @@ export async function closegc() {
 
                 await conn.delay(1000);
 
-                await conn.reply(schedule, '*[إشعار النظام]*\n\n```صباح الخير أيها الأصدقاء! نرجو أن يكون هذا اليوم مليئًا بالحماس والسعادة. لنبدأ اليوم بمعنويات عالية ونشارك الخير في مجموعتنا على الواتساب. أتمنى لك يومًا سعيدًا ونأمل أن يكون اليوم يومًا مثمرًا وممتعًا لنا جميعًا.```', null);
+                await conn.reply(schedule, '*[ moul chi]*\n\n```sbah llah 3awtani arak l fri3 rras.```', null);
 
             } else if (time === '18:00' && anon === false) {
 
@@ -50,7 +50,7 @@ export async function closegc() {
 
                 await conn.delay(1000);
 
-                await conn.reply(schedule, '*[إشعار النظام]*\n\n```مرحبًا بالجميع! سيتم إغلاق نظام مجموعة الواتس اب مؤقتا بسبب دخول وقت غروب الشمس. يرجى أخذ استراحة قصيرة والاستمتاع بوقت مع العائلة أو القيام بأنشطة أخرى. سنعيد فتح نظام المجموعة هذا بعد وقت المغرب. نشكركم على تفهمكم وتعاونكم. أتمنى لك راحة جيدة!```', null);
+                await conn.reply(schedule, '*[ flan l flani]*\n\n```sahbi sir drb chi dora bllati!```', null);
 
             } else if (time === '18:10' && anon === true) {
 
@@ -58,7 +58,7 @@ export async function closegc() {
 
                 await conn.delay(1000);
 
-                await conn.reply(schedule, '*[إشعار النظام]*\n\n```مساء الخير للجميع! تم فتح نظام مجموعة الواتساب بعد غروب الشمس. نأمل أن نكون قد قمنا جميعًا بعبادتنا بشكل جيد وحصلنا على البركات اليوم. دعونا نتشارك القصص والمعلومات والسعادة معًا في هذه المجموعة. مرحبا بكم ونأمل أن نقضي وقتا ممتعا!```', null);
+                await conn.reply(schedule, '*[ mouul chi]*\n\n```baaaack arak l rrwiiina w lblbala!```', null);
 
             }
 
