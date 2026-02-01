@@ -1477,7 +1477,7 @@ if (templ.gcImg) {
                                
 const canLea = await new canvafy.WelcomeLeave()
     .setAvatar(pp)
-    .setBackground("image", "https://telegra.ph/file/39ef0462ab2a3cc5ebfcc.jpg")
+    .setBackground("image", "https://graph.org/file/712b478a279eeb031ebbe-36e2c4c0fb35d0cc1d.jpg")
     .setTitle("Goodbye")
     .setDescription("goodbye Friend!")
     .setBorder("#2a2e35")
@@ -1648,9 +1648,9 @@ let fkon = { key: { fromMe: false, participant: `${m.sender.split`@`[0]}@s.whats
 
 let msg = {
         premium: 'عذرًا، لا يمكن استخدام هذه الميزة إلا من قبل المستخدمين\n *Premium*',
-        group: 'هذه الميزة يمكن استخدامها في المجموعات فقط و لا يمكن استخدمها في الخاص ، ربما صاحب البوت خصص البوت ليشتغل في المجموعات فقط',       
-        private: 'لا يمكن استخدام هذه الميزة إلا في  الخاص',       
-        botAdmin: 'اجعل الروبوت مسؤولاً، ليتمكن من الوصول إلى المجموعة',
+        group: 'hadi katkhdm ghi flgroupat awla l owner dar lbot maykhdmch fprv',       
+        private: 'hadi katkhdm ghi fprv',       
+        botAdmin: '3ti l lbot admin b3da',
         admin: 'الميزة ستشتغل معك فقط اذا كنت أنت و البوت أدمينين في المجموعة ',
         restrict: 'لم يتم تشغيل التقييد لهذه الدردشة',
         adminonly: 'تم تعطيل الخاصية للأعضاء',
@@ -1679,7 +1679,7 @@ let msg = {
     let daftar = {
   unreg: `\`أنت لم تسجل بعد في قاعدة البيانات. سجل فورا عن طريق الكتابة:\`
   
-- /daftar name. age\n\n قبل ان تضغط على زر تسجيل الدخول رجاء تأكد أنك مشترك في قناتي على الواتساب \n\n https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A`}[type]
+- /daftar name. age\n\n 9bel ma tbrek dkhl siftli kiss f voice  \n\n https://wa.me/447346004549`}[type]
   
   if (daftar) return this.sendUrlImageButton(m.chat, daftar, [{name: "quick_reply", buttonParamsJson: `{"display_text": "تسجيل الدخول", "id": "@verify"}`}], wm, registrasi, fkon)
         }
