@@ -1,5 +1,5 @@
-// plugin by: noureddine
-// Instagram: @noureddine_ouafy
+// plugin by: zaka ziko
+// Instagram: @212.mks
 // Source: https://evano.com API
 // scrape by : GilangSan
 import axios from 'axios';
