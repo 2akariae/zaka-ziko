@@ -1,4 +1,4 @@
-// @instagram.com/noureddine_ouafy
+// @instagram.com/212.mks
 // Plugin: Scrape Upscale (HD IMAGE)
 // Source: https://www.upscale-image.com
 // scrape by SaaOffc
