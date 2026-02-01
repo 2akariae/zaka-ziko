@@ -1,4 +1,4 @@
-// @instagram: noureddine_ouafy
+// @instagram: 212.mks
 // Plugin: UPDF AI Chat
 // Feature: Chat, Explain, Translate, Summary
 // Source: https://apis.updf.com
