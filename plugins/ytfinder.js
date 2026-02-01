@@ -1,4 +1,4 @@
-// instagram.com/noureddine_ouafy
+// instagram.com/212.mks
 import fetch from "node-fetch"
 import {
   generateWAMessageFromContent
