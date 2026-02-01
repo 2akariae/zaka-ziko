@@ -1,4 +1,4 @@
-// instagram.com/noureddine_ouafy
+// instagram.com/212.mks
 
 import fetch from 'node-fetch'
 import { FormData, Blob } from 'formdata-node'
@@ -7,7 +7,7 @@ let handler = async (m, { conn, args }) => {
   if (!m.quoted || !m.quoted.fileSha256) 
     return m.reply("⛔ من فضلك قم بالرد على صورة لاستعمال هذه الميزة")
 
-  m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع \ninstagram.com/noureddine_ouafy")
+  m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع \ninstagram.com/212.mks")
 
   try {
     let media = await m.quoted.download()
