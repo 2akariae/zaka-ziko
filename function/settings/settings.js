@@ -18,14 +18,14 @@ global.info = {
  pairingNumber : '212777466518',
  figlet: 'FULANO', // create a start console display
  nomorwa : '212665760003',
- nameown : 'NOUREDDINE',
+ nameown : 'zaka ziko',
  nomerown : '212665760003',
  packname : 'FULANO  ',
- author : 'zaka-ziko',
- namebot : '乂 FULANO',
- wm : 'FULANO.',
- stickpack : 'fulano',
- stickauth : 'zaka-ziko',
+ author : 'zaka❤️‍🩹ziko',
+ namebot : ' FULANO',
+ wm : 'FULANO🫩|zaka ziko❤️‍🩹',
+ stickpack : 'FULANO',
+ stickauth : 'zaka❤️ziko',
  jid: '@s.whatsapp.net'
 }
 
