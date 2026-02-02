@@ -1,5 +1,4 @@
-//noureddine ouafy 
-//plugin from Terakomari_-_MD script 
+//FULANO
 
 import axios from "axios";
 const ytiz = {
