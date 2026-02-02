@@ -1,4 +1,4 @@
-// plugin by noureddine ouafy 
+// plugin by moul taxi 
 import axios from 'axios'
 import CryptoJS from 'crypto-js'
 
