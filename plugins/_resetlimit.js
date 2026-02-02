@@ -26,7 +26,7 @@ export async function before(m) {
       {
         scheduled: true,
 
-        timezone: "Africa/MEKNEEES",
+        timezone: "Africa/Casablanca",
       },
     );
 
