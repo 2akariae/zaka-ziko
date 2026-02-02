@@ -3,7 +3,7 @@ import axios from 'axios';
 const { generateWAMessageContent, generateWAMessageFromContent, proto } = (await import('@adiwajshing/baileys')).default;
 
 let handler = async (m, { conn, text, usedPrefix, command }) => {
-    if (!text) return m.reply(`• *Example:* ${usedPrefix + command} Noureddine ouafy silana bot`);
+    if (!text) return m.reply(`• *Example:* ${usedPrefix + command}  bimo`);
 
     await m.reply('*_`Loading`_*');
 
@@ -33,7 +33,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
         let imageUrl = video.thumbnail;
         push.push({
             body: proto.Message.InteractiveMessage.Body.fromObject({
-                text: `🎬 *Title:* ${video.title}\n⌛ *Duration:* ${video.timestamp}\n👀 *Views:* ${video.views}\n🔗 *Link:* ${video.url} \n ig : instagram.com/noureddine_ouafy`
+                text: `🎬 *Title:* ${video.title}\n⌛ *Duration:* ${video.timestamp}\n👀 *Views:* ${video.views}\n🔗 *Link:* ${video.url} \n ig : instagram.com/212.mks`
             }),
             footer: proto.Message.InteractiveMessage.Footer.fromObject({
                 text: '乂 FULANO 🧠' // Customize your watermark
