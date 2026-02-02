@@ -1,18 +1,19 @@
-// instagram.com/noureddine_ouafy
+// instagram.com/212.mks
 
 const handler = async (m, { conn, text }) => {
-  let [ left, right ] = text.split('|')
+  let [left, right] = text.split('|')
   if (!left) left = ''
   if (!right) right = ''
-  conn.reply(m.chat, left + readMore + right, m)
+
+  const more = '\u200B'
+  const readMore = more.repeat(4000)
+
+  conn.reply(
+    m.chat,
+    left + '\n' + readMore + '\n' + right,
+    m
+  )
 }
 
-handler.help = ['readmore']
-handler.tags = ['tools']
 handler.command = /^(readmore)$/i
-handler.owner = false
-handler.limit = true 
-handler.fail = null
 export default handler
-const more = String.fromCharCode(8206)
-const readMore = more.repeat(4001)
