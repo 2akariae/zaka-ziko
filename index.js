@@ -131,7 +131,7 @@ const totalFoldersAndFiles = await getTotalFoldersAndFiles(pluginsFolder);
 "IP": data,
 "Owner": global.info.nomerown,
 "feature": `${totalFoldersAndFiles.files} feature`,
-"Creator": `NOUREDDINE`
+"Creator": `zaka/ziko`
 })
     
   } catch (err) {
