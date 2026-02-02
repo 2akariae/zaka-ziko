@@ -32,7 +32,7 @@ async function igram(url) {
 let handler = async (m, { conn, text }) => {
   if (!text) return m.reply("Please provide an Instagram link.");
 
-  await m.reply("المرجو الانتظار قليلا لا تنسى ان تتابع \ninstagram.com/noureddine_ouafy");
+  await m.reply("  sber chwya mn lbsala \ninstagram.com/212.mks");
 
   try {
     const result = await igram(text);
