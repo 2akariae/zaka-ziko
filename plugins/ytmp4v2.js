@@ -1,5 +1,4 @@
 // @zaki_lhrch
-// thanks siputzx
 import axios from 'axios';
 import FormData from 'form-data';
 
@@ -78,7 +77,7 @@ const downloadYouTubeVideo = async (url) => {
 let handler = async (m, { conn, args, text, usedPrefix, command }) => {
   if (!text) return m.reply(`❌ أدخل رابط يوتيوب صالح.\n📌 مثال: ${usedPrefix + command} https://youtu.be/abc123`);
 
-  m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع \ninstagram.com/noureddine_ouafy");
+  m.reply("⏳ المرجو الانتظار قليلا لا تنسى ان تتابع \ninstagram.com/212.mks");
 
   const result = await downloadYouTubeVideo(text);
   if (!result.success) return m.reply(`❌ فشل التحميل: ${result.error}`);
