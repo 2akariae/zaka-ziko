@@ -5,7 +5,7 @@ import {
 } from "@adiwajshing/baileys"
 
 let handler = async (m, { conn, text }) => {
-  if (!text) throw "This command is for searching on YouTube, for example:\n.ytfinder noureddine ouafy"
+  if (!text) throw "This command is for searching on YouTube, for example:\n.ytfinder 0lhrch"
 
   const regex = /^https:\/\/www\.youtube\.com\/watch\?v=[A-Za-z0-9_-]+$/
   const isMatch = regex.test(text)
