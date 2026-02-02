@@ -1,5 +1,5 @@
 // instagram.com/zaki_lhrx
-// scrape by wolfyflutter
+
 let handler = async (m, { conn, args }) => {
   if (!args[0]) return m.reply('❌ من فضلك أدخل رابط منشور يوتيوب.\nمثال:\n.ytpost http://youtube.com/');
 
