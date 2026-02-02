@@ -1,8 +1,6 @@
 // plugin by: zaka ziko
 // Instagram: @212.mks
-// Source: https://evano.com API
-// scrape by : GilangSan
-import axios from 'axios';
+
 
 let handler = async (m, { conn, text }) => {
     if (!text) return conn.reply(m.chat, "Send me a YouTube channel URL. Example:\nhttps://youtube.com/@0lhrch", m);
