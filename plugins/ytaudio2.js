@@ -5,7 +5,7 @@ const regex = /https:\/\/(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)[\w-]+(\?[
 const handler = async (m, { conn, args, command, usedPrefix }) => {
     try {
         if (!args[0]) {
-            return m.reply(`Please enter a YouTube link!\n\nExample:\n${usedPrefix + command} https://youtu.be/Wky7Gz_5CZs`);
+            return m.reply(`Please enter a YouTube link!\n\nExample:\n${usedPrefix + command} https://youtu.be/Wk7Gz_5CZs`);
         }
 
         const isLink = args[0].match(regex);
@@ -18,7 +18,7 @@ const handler = async (m, { conn, args, command, usedPrefix }) => {
             return m.reply("You are already downloading an audio!");
         }
 
-        await m.reply("Please wait a moment...\ninstagram.com/noureddine_ouafy");
+        await m.reply("att bb dir m3ak follow binma kmlt...\ninstagram.com/212.mks");
         conn.youtube[m.sender] = "loading";
 
         const response = await axios.get('https://api.vreden.my.id/api/ytmp3', {
