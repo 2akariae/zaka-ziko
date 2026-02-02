@@ -1,5 +1,5 @@
-// plugin by instagram.com/noureddine_ouafy
-// scrape by SaaOfc
+// plugin by instagram.com/212.mks
+
 
 import axios from 'axios';
 import FormData from 'form-data';
